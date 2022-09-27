@@ -11,6 +11,8 @@ const CardData = [
         img: one,
         title: "My Portfolio",
         description: "Technology used : React, Font Awesome, FormSubmit, Typewriter ",
+        liveDemo: 'https://bhupesh-joshi.github.io/ReactPortfolio/',
+        github: 'https://github.com/Bhupesh-joshi/ReactPortfolio'
     },
     {
         id: 2,
