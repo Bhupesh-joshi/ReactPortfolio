@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.2628a35c.css",
+    "main.js": "/ReactPortfolio/static/js/main.8abe66de.js",
+    "static/js/787.1ed0c42c.chunk.js": "/ReactPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/instaUIClone.jpg": "/ReactPortfolio/static/media/instaUIClone.ef18a24a8851bdc1132e.jpg",
+    "static/media/eCommerce.png": "/ReactPortfolio/static/media/eCommerce.d9da40616205ad6389c9.png",
+    "static/media/UxProdxWebsite.png": "/ReactPortfolio/static/media/UxProdxWebsite.7fc541e0c1399349bbab.png",
+    "static/media/flipKartClone.png": "/ReactPortfolio/static/media/flipKartClone.7ad243240438803715a1.png",
+    "static/media/react_basic_website.png": "/ReactPortfolio/static/media/react_basic_website.f038600fa3f1061a7d16.png",
+    "static/media/portfolio.png": "/ReactPortfolio/static/media/portfolio.a469323d396e79dbc4ce.png",
+    "static/media/MY_Resume.docx": "/ReactPortfolio/static/media/MY_Resume.4dffedac3b8194e4f57f.docx",
+    "static/media/main-img.jpg": "/ReactPortfolio/static/media/main-img.4837556d6e2316cec304.jpg",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.2628a35c.css.map": "/ReactPortfolio/static/css/main.2628a35c.css.map",
+    "main.8abe66de.js.map": "/ReactPortfolio/static/js/main.8abe66de.js.map",
+    "787.1ed0c42c.chunk.js.map": "/ReactPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2628a35c.css",
+    "static/js/main.8abe66de.js"
+  ]
+}
