@@ -66,7 +66,7 @@ const Experience = () => {
                           <i className="fa fa-calendar"></i> Jan 2022 - June 2022
                         </h3>
                         <h4 className="timeline-title">Front-End Developer <span><h3 className="timeline-date">
-                          Part Time
+                          Full Time
                         </h3></span></h4>
                         <p className="timeline-text">Developed user interface by using the HTML/CSS/Bootstrap and JavaScript. <br />
                         Experience to make components. <br />
