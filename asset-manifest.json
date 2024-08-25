@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.2628a35c.css",
-    "main.js": "/ReactPortfolio/static/js/main.86c87e5b.js",
+    "main.css": "/ReactPortfolio/static/css/main.773a111a.css",
+    "main.js": "/ReactPortfolio/static/js/main.43fea5a0.js",
     "static/js/787.1ed0c42c.chunk.js": "/ReactPortfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/instaUIClone.jpg": "/ReactPortfolio/static/media/instaUIClone.ef18a24a8851bdc1132e.jpg",
+    "static/media/gdpcollage.png": "/ReactPortfolio/static/media/gdpcollage.507277a356dc73590f76.png",
     "static/media/eCommerce.png": "/ReactPortfolio/static/media/eCommerce.d9da40616205ad6389c9.png",
+    "static/media/imageGallery.png": "/ReactPortfolio/static/media/imageGallery.f82bf7f447ef3bf81a6a.png",
+    "static/media/BHUPESH-JOSHI_MCA_.pdf": "/ReactPortfolio/static/media/BHUPESH-JOSHI_MCA_.ae3dc11b504559a15719.pdf",
+    "static/media/modernChair.png": "/ReactPortfolio/static/media/modernChair.cb3bcebd8aba0d21db43.png",
     "static/media/UxProdxWebsite.png": "/ReactPortfolio/static/media/UxProdxWebsite.7fc541e0c1399349bbab.png",
-    "static/media/flipKartClone.png": "/ReactPortfolio/static/media/flipKartClone.7ad243240438803715a1.png",
+    "static/media/RazorpayLandingPage.png": "/ReactPortfolio/static/media/RazorpayLandingPage.fae00c013b7889fce223.png",
     "static/media/react_basic_website.png": "/ReactPortfolio/static/media/react_basic_website.f038600fa3f1061a7d16.png",
     "static/media/portfolio.png": "/ReactPortfolio/static/media/portfolio.a469323d396e79dbc4ce.png",
-    "static/media/MY_Resume.docx": "/ReactPortfolio/static/media/MY_Resume.8b759e071a629e22dddc.docx",
     "static/media/main-img.jpg": "/ReactPortfolio/static/media/main-img.4837556d6e2316cec304.jpg",
     "index.html": "/ReactPortfolio/index.html",
-    "main.2628a35c.css.map": "/ReactPortfolio/static/css/main.2628a35c.css.map",
-    "main.86c87e5b.js.map": "/ReactPortfolio/static/js/main.86c87e5b.js.map",
+    "main.773a111a.css.map": "/ReactPortfolio/static/css/main.773a111a.css.map",
+    "main.43fea5a0.js.map": "/ReactPortfolio/static/js/main.43fea5a0.js.map",
     "787.1ed0c42c.chunk.js.map": "/ReactPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2628a35c.css",
-    "static/js/main.86c87e5b.js"
+    "static/css/main.773a111a.css",
+    "static/js/main.43fea5a0.js"
   ]
 }
